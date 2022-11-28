@@ -27,9 +27,13 @@
 |9# อีเว้นท์วิ่ง#9|
 
 
+SL_ZKL09_1 = (Html.fromHtml("<font color=\"#FFFFFF\">อีเว้นท์วิ่ง</font><font color=\"#505050\"> :: </font><font color=\"#FF0000\"> ปิดการใช้งาน </font>"))
 
-|9|0|(Html.fromHtml("<font color=\"#FFFFFF\">อีเว้นท์วิ่ง</font><font color=\"#505050\"> :: </font><font color=\"#FF0000\"> ปิดการใช้งาน </font>"))|0|9|
-|9|1|(Html.fromHtml("<font color=\"#FFFFFF\">อีเว้นท์วิ่ง</font><font color=\"#505050\"> :: </font><font color=\"#FF0000\"> ปิดการใช้งาน </font>"))|1|9|
+|9|1|SL_ZKL09_1|1|9|
+
+
+---|9|0|(Html.fromHtml("<font color=\"#FFFFFF\">อีเว้นท์วิ่ง</font><font color=\"#505050\"> :: </font><font color=\"#FF0000\"> ปิดการใช้งาน </font>"))|0|9|
+---|9|1|(Html.fromHtml("<font color=\"#FFFFFF\">อีเว้นท์วิ่ง</font><font color=\"#505050\"> :: </font><font color=\"#FF0000\"> ปิดการใช้งาน </font>"))|1|9|
 
 
 
