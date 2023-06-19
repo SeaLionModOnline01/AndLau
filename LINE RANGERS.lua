@@ -4,8 +4,9 @@
 
 
 
+[discord]"https://youtube.com/@SeaLionSL"[link]
 
-
+[youtube]"https://youtube.com/@SeaLionSL"[link]
 
 
 
