@@ -4,9 +4,7 @@
 
 
 
-[discord]"https://youtube.com/@SeaLionSL"[link]
 
-[youtube]"https://youtube.com/@SeaLionSL"[link]
 
 
 
@@ -103,6 +101,10 @@
 
 
 
+
+
+|discord|"https://youtube.com/@SeaLionSL"|link|
+|youtube|"https://youtube.com/@SeaLionSL"|link|
 
 
 
